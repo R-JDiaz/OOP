@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "libs\\gson-2.13.1.jar",
+        "libs\\jbcrypt-0.4.jar",
+        "libs\\junit-jupiter-api-5.9.2.jar",
+        "libs\\junit-jupiter-engine-5.9.2.jar",
+        "libs\\org.json-1.6-20240205.jar"
+    ]
+}
